@@ -2,8 +2,8 @@
 
 My name is Florian!
 
-- 🔭 I’m currently working at **Deutsche Bahn**
-- 🌱 I’m currently learning [**Rust**](https://www.rust-lang.org), [**Go**](https://golang.org) and [**GraphQL**](https://graphql.org/)
+- 🔭 I’m currently working at [**DB Bahnbau Gruppe**](https://www.bahnbaugruppe.de)
+- 🌱 I’m currently learning [**Rust**](https://www.rust-lang.org) and [**Go**](https://golang.org)
 - 👯 I’m looking to collaborate on [**CLIs**](https://github.com/search?q=user%3Affflorian+cli) and [**TypeScript Definitions**](https://github.com/DefinitelyTyped/DefinitelyTyped/)
 - 💬 Ask me about **TypeScript** and **Linux**
 - 📫 How to reach me: **See my [website](https://ffflorian.de)**
