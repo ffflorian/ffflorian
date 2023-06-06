@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Florian!
+About me:
 
 - 🔭 I'm currently working at [**DB Bahnbau Gruppe**](https://www.bahnbaugruppe.de) (subsidiary of [Deutsche Bahn](https://deutschebahn.com))
 - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org), [**Go**](https://golang.org), and [**Kubernetes**](https://kubernetes.io)
