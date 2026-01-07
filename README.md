@@ -6,7 +6,7 @@ I am currently ...
 
 - 🔭 working at [**DB Systel**](https://www.dbsystel.de) (subsidiary of [Deutsche Bahn](https://deutschebahn.com))
 - 🌱 learning [**Rust**](https://www.rust-lang.org), [**Go**](https://golang.org), and [**Kubernetes**](https://kubernetes.io)
-- 👯 looking to collaborate on [**CLIs**](https://github.com/search?q=user%3Affflorian+cli) and [**TypeScript Definitions**](https://github.com/DefinitelyTyped/DefinitelyTyped/)
+- 👯 looking to collaborate on [**CLIs**](https://github.com/search?q=user%3Affflorian+topic%3Acli&type=repositories) and [**TypeScript Definitions**](https://github.com/DefinitelyTyped/DefinitelyTyped/)
 
 Furthermore ...
 
