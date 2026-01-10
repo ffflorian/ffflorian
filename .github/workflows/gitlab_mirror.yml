@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
       - name: Mirror to GitLab
         uses: SvanBoxel/gitlab-mirror-and-ci-action@f80bc118403c3f3f5b8fe1e6417b7ac43771d6fa
         with:
