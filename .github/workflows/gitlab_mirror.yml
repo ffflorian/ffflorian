@@ -1,4 +1,4 @@
-name: Mirror and run GitLab CI
+name: Mirror to GitLab
 
 on: [push]
 
@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Mirror + trigger CI
+      - name: Mirror to GitLab
         uses: SvanBoxel/gitlab-mirror-and-ci-action@f80bc118403c3f3f5b8fe1e6417b7ac43771d6fa
         with:
           args: 'https://gitlab.com/ffflorian/ffflorian'
