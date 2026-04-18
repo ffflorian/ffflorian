@@ -1,6 +1,4 @@
 name: Mirror to Codeberg and GitLab
-permissions:
-  contents: read
 
 on:
   push:
@@ -9,6 +7,8 @@ on:
 jobs:
   mirror:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
