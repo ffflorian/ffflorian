@@ -6,13 +6,13 @@ I work as DevOps engineer at [DB Systel](https://www.dbsystel.de), a subsidiary 
 
 ## What I work with
 
-- **Languages:** [TypeScript](https://www.typescriptlang.org), [Bash](https://www.gnu.org/software/bash/), [Go](https://go.dev), [Rust](https://www.rust-lang.org)
+- **Languages:** [TypeScript](https://www.typescriptlang.org), [Bash](https://www.gnu.org/software/bash/), [Go](https://go.dev), [Rust](https://rust-lang.org)
 - **Infrastructure:** [Kubernetes](https://kubernetes.io), [GitLab CI](https://docs.gitlab.com/ci/), [Linux](https://www.kernel.org)
 
 ## Selected projects
 
 - [**node-packages**](https://github.com/ffflorian/node-packages): monorepo of small, independent npm packages and command-line tools
-- [**pkgsource**](https://github.com/ffflorian/pkgsource): find the source repository of an npm package in an instant
+- [**pkgsource**](https://github.com/ffflorian/pkgsource): find the source repository of an npm package in an instant, online at [pkgsource.ffflorian.dev](https://pkgsource.ffflorian.dev)
 - [**schemastore-updater**](https://github.com/ffflorian/schemastore-updater): publishes [SchemaStore](https://github.com/SchemaStore/schemastore) schemas as TypeScript definitions on npm ([`@schemastore`](https://www.npmjs.com/org/schemastore))
 - [**Sort JSON**](https://github.com/ffflorian/sortjson.com): sort JSON keys recursively, online at [sortjson.com](https://sortjson.com)
 
